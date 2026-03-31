@@ -9,6 +9,13 @@ This project is designed to simulate an Applicant Tracking System (ATS) used by 
 - ATS compatibility scoring
 - Skill gap analysis
 
+## 🚀 Technologies Used:
+Python
+NLP (NLTK / TF-IDF)
+Scikit-learn
+Pandas & NumPy
+Google Colab
+
 ## 🎯 Use Case
 - Helps job seekers optimize resumes
 - Improves chances of passing ATS filters
